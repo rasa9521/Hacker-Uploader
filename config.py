@@ -1,9 +1,9 @@
 import os
 
-api_id =  28829496
-api_hash  = '8094341dbe5bd50090de8b12a01d04b8'
-bot_token =  '8121411999:AAHj-WZRHzzXrVFcohrAHuKrqVZ85E3GYqk'
-OWNER =  6722831365
-OWNER_USERNAME = 'Saksham'
-LOG =  -100253268913
-ADMINS = [OWNER, 7385324642, 7653433189]
+api_id =  27900743
+api_hash  = 'ebb06ea8d41420e60b29140dcee902fc'
+bot_token =  ''
+OWNER =  7804396225
+OWNER_USERNAME = 'mrkrsrawat'
+LOG =  -1002682536048
+ADMINS = [OWNER, 7804396225]
